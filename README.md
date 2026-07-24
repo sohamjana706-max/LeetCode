@@ -31,4 +31,8 @@ All the questions I solved (DSA,SQL,....) IN LEETCODE
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohamjana706-max/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sohamjana706-max/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
