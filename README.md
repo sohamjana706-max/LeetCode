@@ -34,5 +34,10 @@ All the questions I solved (DSA,SQL,....) IN LEETCODE
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sohamjana706-max/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sohamjana706-max/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/sohamjana706-max/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
