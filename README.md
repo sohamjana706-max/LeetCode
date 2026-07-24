@@ -18,4 +18,12 @@ All the questions I solved (DSA,SQL,....) IN LEETCODE
 | [1193-monthly-transactions-i](https://github.com/sohamjana706-max/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/sohamjana706-max/LeetCode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/sohamjana706-max/LeetCode/tree/master/1341-movie-rating) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/sohamjana706-max/LeetCode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/sohamjana706-max/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
